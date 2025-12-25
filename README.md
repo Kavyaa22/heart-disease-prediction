@@ -1,4 +1,4 @@
-# heart-disease-prediction
+# Heart-disease-prediction
 Used the UCI Machine Learning Heart Disease dataset.
 
 - Test set metrics
